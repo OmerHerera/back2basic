@@ -1,0 +1,26 @@
+{
+  "name": "back2basic",
+  "version": "1.0.0",
+  "description": "project with basic, mandatory knowloge in JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OmerHerera/back2basic"
+  },
+  "keywords": [
+    "JS",
+    "javascript",
+    "JavaScript",
+    "basic",
+    "knowledge"
+  ],
+  "author": "omher",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OmerHerera/back2basic/issues"
+  },
+  "homepage": "https://github.com/OmerHerera/back2basic"
+}

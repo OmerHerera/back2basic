@@ -1,4 +1,4 @@
-back2basic
+###back2basic
 
 > project with basic, mandatory knowledge in JS (in progress)
 
